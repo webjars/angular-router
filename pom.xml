@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>angular-router</artifactId>
-    <version>0.5.3</version>
+    <version>0.5.4-SNAPSHOT</version>
     <name>angular-router</name>
     <description>WebJar for angular-router</description>
     <url>http://webjars.org</url>
@@ -53,7 +53,7 @@
         <url>http://github.com/webjars/angular-router</url>
         <connection>scm:git:https://github.com/webjars/angular-router.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/angular-router.git</developerConnection>
-        <tag>angular-router-0.5.3</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
